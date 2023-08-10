@@ -1,0 +1,4 @@
+Name of the customer is: Rounak
+Date and Time : 2023/5/10 22:34:7
+Total Price:19780.0
+ Alienware:  ALienware

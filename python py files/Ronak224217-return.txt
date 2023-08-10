@@ -1,0 +1,4 @@
+Name of customer is: Ronak
+Date and Time details: 2023/5/10 22:42:17
+Total price:20000.0
+ Razer Blade:  Razer
